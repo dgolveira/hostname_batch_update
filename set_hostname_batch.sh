@@ -1,5 +1,5 @@
 #!/bin/bash
-#Douglas Oliveira
+#Douglas Oliveira new
 
 # Lista de DNS para verificar
 TOTAL_DNS_LIST=14
